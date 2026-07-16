@@ -4,6 +4,13 @@ Uma página estática dedicada à obra **Invencível (Invincible)**, criada como
 
 O projeto apresenta informações sobre a história, personagens, referências, momentos importantes e uma visão pessoal sobre a obra de **Robert Kirkman**, utilizando a construção de uma página temática como forma de praticar fundamentos essenciais do desenvolvimento web.
 
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Acessar%20Projeto-blue?style=for-the-badge&logo=github)](https://felipecorreia-ti.github.io/Invencible-WebSite/)
+
+
+
+
+
 ## 🎯 Objetivo do projeto
 
 O principal objetivo deste projeto é praticar e aprimorar o uso dos **elementos semânticos do HTML**, desenvolvendo uma página organizada, estruturada e com uma divisão clara de conteúdo.
